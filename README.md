@@ -7,5 +7,5 @@ Personal space to test python
 ## Project
 #### Assignment 1
 - Data Types
-- String Literals
+- String Literals and print statement
 - Format Specifiers
